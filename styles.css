@@ -56,7 +56,13 @@ footer {
     background-color: grey;
     color: white;
     text-align: center;
+}
 
+.responsive {
+    width: 200px;
+    height: 200px;
+    margin-right: 20px;
+    margin: 50px;   
 }
 
 @media screen and (max-width: 800px) {
