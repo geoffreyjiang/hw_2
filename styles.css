@@ -59,9 +59,9 @@ footer {
 
 }
 
-@media screen and (max-width: 630px) {
+@media screen and (max-width: 800px) {
     body {
-        background-color:blanchedalmond;
+        background-color:yellowgreen;
     }
 }
 
