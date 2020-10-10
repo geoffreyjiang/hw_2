@@ -78,7 +78,7 @@ footer {
 }
 
 @media screen and (min-width: 100px) {
-    body .img-responsive .form-group { 
+    body .img-responsive{
         background-color:yellowgreen;
         margin-top: 10px;
         margin-block: 50px;
